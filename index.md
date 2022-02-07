@@ -6,6 +6,8 @@
 
 [Click To Survive](https://daxodax.itch.io/click-to-survive)
 <img src="https://img.itch.zone/aW1nLzcyOTYzMDEucG5n/347x500/fmsNYz.png"/>
+<br>
+This project was made on GGJ 2022.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
