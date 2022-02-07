@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Click To Survive](https://daxodax.itch.io/click-to-survive)
+<img src="https://img.itch.zone/aW1nLzcyOTYzMDEucG5n/347x500/fmsNYz.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
