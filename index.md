@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My Games
 
 [Click To Survive](https://daxodax.itch.io/click-to-survive)
 <img src="https://img.itch.zone/aW1nLzcyOTYzMDEucG5n/347x500/fmsNYz.png"/>
@@ -10,7 +10,10 @@
 This project was made on GGJ 2022.
 
 ---
-
+[Let There be Photophobia!](https://callmetoots.itch.io/let-there-be-photophobia)
+<img src="https://img.itch.zone/aW1hZ2UvMTMxMjQwMi83NjY5NzQ2LnBuZw==/original/l0Tu9Q.png"/>
+<br>
+This project was presented for a week-long project with the theme "Day and night" for the educational program of "INKUBATOR - PISMO"  for "Unity/C# game developer". I was UI designer.
 
 ---
 [Project 3 Title](http://example.com/)
