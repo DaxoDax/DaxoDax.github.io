@@ -10,8 +10,7 @@
 This project was made on GGJ 2022.
 
 ---
-[Test](/images/CAR.jpeg)
-<img src="images/CAR.jpeg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
