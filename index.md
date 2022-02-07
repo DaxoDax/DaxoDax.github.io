@@ -10,7 +10,7 @@
 This project was made on GGJ 2022.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Test](/images/CAR.jpeg)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
