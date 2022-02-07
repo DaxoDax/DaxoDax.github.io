@@ -11,7 +11,7 @@ This project was made on GGJ 2022.
 
 ---
 [Let There be Photophobia!](https://callmetoots.itch.io/let-there-be-photophobia)
-<img src="https://img.itch.zone/aW1hZ2UvMTMxMjQwMi83NjY5NzQ2LnBuZw==/original/l0Tu9Q.png"/>
+<img src="https://img.itch.zone/aW1nLzc2NTQ3NTEucG5n/original/B%2FV6Le.png"/>
 <br>
 This project was presented for a week-long project with the theme "Day and night" for the educational program of "INKUBATOR - PISMO"  for "Unity/C# game developer". I was UI designer.
 
